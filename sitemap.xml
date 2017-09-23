@@ -7,4034 +7,1850 @@
 <!-- www.check-domains.com sitemap generator -->
 
 <url>
-   <loc>https://stackoverflow.com/</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>1.0000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/opensearch.xml</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/help</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/tour</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/?tab=interesting</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/?tab=featured</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/?tab=hot</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/?tab=week</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/?tab=month</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/jquery</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/effects</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/6050346/nick</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46367027/macro-to-group-using-vba</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/excel</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/vba</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/excel-vba</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/macros</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/8656163/justin</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46367023/how-could-a-simple-calculation-go-wrong</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/javascript</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/math</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/native</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/7488764/v-steinmann</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46367019/python-looping-range-vs-looping-array</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/python</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/5967993/constantine32</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46354195/exif-data-from-mobiles-cameras-in-portrait-mode-messing-with-image-preview-i</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/exif</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/5503625/piyin</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46366846/vs-code-snippet-not-inserting-correctly</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/visual-studio</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/code-snippets</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/5216651/caverman</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46367017/how-to-display-in-shiny-app-a-matrix-a-with-cell-color-depending-of-the-cells-of</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/r</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/shiny</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/shinyapps</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/dt</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/6843333/sergio-marrero-marrero</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46353438/c-adding-rows-to-a-vector-of-vectors</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/c%2b%2b</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/csv</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/vector</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/501250/cdhowie</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46333157/accessing-mysql-running-on-docker-swarm</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/mysql</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/docker</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/docker-swarm</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/5727424/david-lavieri</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46367014/extract-images-from-a-bigger-image-by-coordinate</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/ruby-on-rails</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/ruby</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/image-processing</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/5261664/rwehresmann</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46367013/build-array-with-minimum-value-of-some-range</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/arrays</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/algorithm</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/segment-tree</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/rmq</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/7638692/leolime</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46173762/running-ionic-3-app-on-iphone-throws-error-2-duplicate-symbols-for-architecture</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/xcode</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/cordova</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/ionic-framework</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/cordova-plugins</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/ionic3</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/3776862/djejaquino</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46366335/unknown-decisionid-type-activity-id-26-aws-swf-decision-error</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/amazon-web-services</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/flash</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/5508719/julian-schmuckli</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46367008/speed-up-vba-marco</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/2911241/mike</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46366781/r-caret-rpart-returns-error-in-data-framem-labs-undefined-columns-selec</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/classification</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/r-caret</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/rpart</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/990608/e-b</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46367007/rds-replica-lag-when-large-select-query-running-on-replica</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/amazon-rds</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/database-replication</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/4966443/vinoth-rajendran</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/40177006/c-variant-no-such-file-or-directory</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/g%2b%2b</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/variant</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/1823890/user1823890</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46363485/pymongo-how-to-append-values-to-array</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/mongodb</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/pymongo</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/insert-update</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/pymongo-3.x</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/2190807/rummykhan</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46366993/use-ngx-pagination-with-second-nested-ngfor-in-angular-4</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/angular</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/pagination</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/7365501/saber-hosney</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46366116/pkgdown-builds-in-ubuntu-but-not-windows-argument-str-should-be-a-character-v</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/windows</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/ubuntu</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/package</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/stringi</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/7027975/joga</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46366988/betacv-implementation-in-matlab-column-index-out-of-bounds</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/matlab</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/octave</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/4555441/pranav-nerurkar</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46366989/layoutcomplete-expanded-image-new-position</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/isotope</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/packery</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/3203265/user3203265</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46358219/azure-is-being-slower-than-hostgator-with-the-database</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/performance</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/azure</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/hosting</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/4035/sung</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/35286452/best-alternative-approach-to-define-a-partial-module-in-vb-net</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/.net</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/vb.net</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/organization</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/partial-classes</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/convention</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/641914/graham</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46366987/ssis-fixed-number-of-columns-in-flat-file-source</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/c%23</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/sql-server</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/ssis</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/8484296/keef</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46361147/what-is-wrong-with-my-my-quicksort-function-code</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/472495/halfer</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46366592/how-to-style-tables-content</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/html</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/css</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/6053654/commercial-suicide</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46366981/how-to-create-spatialline-objects-from-a-list</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/list</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/sp</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/2232283/afana-a</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46366980/simplexmlelement-having-issue-with-webserver</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46371838/whats-the-equivalent-of-guzzlehttp-event-subscriberinterface-in-guzzle-6</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
    <loc>https://stackoverflow.com/questions/tagged/php</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/rss</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/guzzle</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/4401936/chidi-duru</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/guzzle6</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46365894/why-are-values-in-object-updated-on-submit</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/guzzlehttp</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/ecmascript-6</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46371837/passing-event-data-to-promise-pipeline</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/angular2-template</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/javascript</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/angular2-forms</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/promise</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/angular2-services</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46371836/xcode-gives-crash-reports-for-testflight-app-but-how-do-i-read-it</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/8569366/songster</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/ios</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46366975/insert-multiple-values-with-a-stored-procedure</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/objective-c</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/database</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/xcode</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/5762714/sphinx</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/itunesconnect</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46365900/toggle-state-based-on-true-or-false-condition-meteor-blaze</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/testflight</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/toggle</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/meteor-blaze</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/meteor-helper</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/3296607/ankur-soni</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46338802/how-to-identify-if-an-ec2-instance-is-part-of-autoscaling-group-using-net-aws-s</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/amazon-ec2</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/autoscaling</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/amazon-cloudwatch</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/amazon-cloudwatch-metrics</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/1772245/mostafazh</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46366965/selenium-xpath-query-findelement-after-text</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/selenium</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/xpath</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/7858451/joe-j</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46366708/git-stash-w-r-t-index-unstaged-and-untracked</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/git</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/1168041/leeyuiwah</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46366954/saving-tf-model-trained-with-keras-and-then-evaluated-in-go</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/go</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/tensorflow</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/keras</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/3585387/jan-sila</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46366944/mapbox-studio-how-to-show-place-label-at-zoom-22</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/gis</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/mapbox</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/6664745/geeksan</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46366942/pronto-circleci-integration-issue</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/circleci</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/2143582/ananth</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46366941/rspec-no-route-matches-polymorphic</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/rspec</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/rspec-rails</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/2030396/mi%c5%a1el-ademi</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46366940/what-does-no-report-files-found-for-pattern-valgrind-xml-mean</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/jenkins</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/valgrind</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/4627565/bionix1441</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/41143367/how-to-fix-resharper-object-initializer-indentation-as-method-argument</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/resharper</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/code-formatting</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/7418530/alem</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/32573924/composer-hanging-while-updating-dependencies</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46371835/sharepoint-rest-service-that-convert-json-to-xml</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
    <loc>https://stackoverflow.com/questions/tagged/json</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/composer-php</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/xml</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/hamcrest</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/rest</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/2552249/bravohex</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46371834/laravel-hasmanythrough-return-only-id</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/41885560/why-should-i-not-use-cdn-for-react-babel</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/mongodb</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/reactjs</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/eloquent</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/cdn</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/laravel-eloquent</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/babel</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/laravel-5.5</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/4859791/skreweverything</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46371833/symfony-constrain-error-code</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46366933/nginx-rails5-mina-bundler-failed-to-load-command-puma</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/symfony</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/deployment</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/validation</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/web-deployment</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/constraints</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/puma</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46371832/python-glob-regex-file-search-with-for-single-result-from-multiple-matches</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/mina</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/python</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/2335333/kkt</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/regex</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46366929/is-there-any-way-to-remove-vsts-agent-without-pat</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/glob</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/vsts</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46371825/need-some-advise-on-php-session-multidimensional-array-to-javascript</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/2246582/alexk</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/session</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/9678381/break-out-of-a-method-from-anonymous-inner-class</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/multidimensional-array</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/java</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46371823/how-do-i-install-the-latest-git-and-svn-on-centos-7</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/android</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/git</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/anonymous-inner-class</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/svn</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/5905216/h-a-sanger</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/centos</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/45542785/how-to-count-different-values-into-different-rows-in-sql-efficiently</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46371821/sending-array-attribute-of-object-to-ajax</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://stackoverflow.com/questions/tagged/jquery</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://stackoverflow.com/questions/tagged/ajax</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://stackoverflow.com/questions/46371820/how-to-use-a-reg-form-to-pass-a-variable-in-the-url-and-render-results-in-djang</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://stackoverflow.com/questions/tagged/django</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://stackoverflow.com/questions/46371819/arithmetic-overflow-error-converting-expression-to-data-type-datetime-sql</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://stackoverflow.com/questions/tagged/sql-server</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://stackoverflow.com/questions/tagged/datetime</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://stackoverflow.com/questions/46371818/type-mismatch-array-position-compare-vba</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://stackoverflow.com/questions/tagged/vba</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://stackoverflow.com/questions/tagged/type-mismatch</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://stackoverflow.com/questions/46371814/sql-server-ram-usage-multiple-databases-vs-one-big-database</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://stackoverflow.com/questions/tagged/database</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://stackoverflow.com/questions/tagged/memory</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://stackoverflow.com/questions/tagged/ram</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://stackoverflow.com/questions/tagged/multiple-databases</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://stackoverflow.com/questions/46371813/sql-joining-2-tables-with-1-key-each-but-want-specific-results</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
    <loc>https://stackoverflow.com/questions/tagged/sql</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/postgresql</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/oracle10g</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/amazon-redshift</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/java</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/2570261/haleemur-ali</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/c%23</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46366920/fuiarray-can-not-return-the-correct-number-of-array-element</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/android</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/swift</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/html</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/firebase</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/c%2b%2b</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/firebase-database</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/css</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/firebaseui</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/mysql</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/496837/john</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/asp.net</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46366921/error-while-instantiating-selenium-chrome-driver-in-spring-mvc-java-controller</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/ruby-on-rails</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/sqlsrv</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/c</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/45678977/used-type-va-list-aka-builtin-va-list-where-arithmetic-or-pointer-type-i</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/4277177/frincit</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/45650902/why-row-dont-update-in-tree-view-with-calling-gtk-list-store-set-function</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/8454927/hatef-hosseinian</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/45650122/pymongo-insert-update-an-embedded-document</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/document</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/3205466/amarlakhtakia</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/45620170/update-else-insert-informatica</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/informatica</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/8446638/jag-v</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/8434418/bendzs</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/45590641/how-to-update-an-object-in-zend-framework-2</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/zend-framework</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/zend-framework2</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/sql-update</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/tablegateway</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/8374963/samer-sboui</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/insert-update?page=2&amp;sort=newest&amp;pagesize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/insert-update?page=3&amp;sort=newest&amp;pagesize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/insert-update?page=4&amp;sort=newest&amp;pagesize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/insert-update?page=5&amp;sort=newest&amp;pagesize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/insert-update?page=59&amp;sort=newest&amp;pagesize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/insert-update?sort=newest&amp;pagesize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/insert-update?sort=newest&amp;pagesize=30</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/insert-update?sort=newest&amp;pagesize=50</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/tags/pymongo-3.x/info</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/pymongo-3.x?sort=newest&amp;pageSize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/pymongo-3.x?sort=frequent&amp;pageSize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/pymongo-3.x?sort=votes&amp;pageSize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/pymongo-3.x?sort=active&amp;pageSize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/tags/pymongo-3.x/topusers</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/tags/pymongo-3.x/synonyms</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46091855/iterate-over-pyspark-dataframe-and-then-for-each-row-interact-with-mongodb</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/pyspark</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/5533254/satya</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/1652472/narayanan-p-s</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46015753/process-every-string-in-specific-field-of-a-collection</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/8179736/oxymoron</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/pymongo-2.x</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/3481473/veena</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/3173694/sunilkumar</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/45737486/writing-in-parallel-to-mongodb-collection-from-python</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/2784801/omar-k-aly</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/45147403/use-index-of-object-in-mongodb-to-return-result</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/4571647/1-elephant-1</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/45075094/bulkwriteerror-in-pymongo-when-inserting-documents</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/5068345/daemon24</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/44953334/flask-wtform-combination-is-receiving-data-request-form-but-is-not-saving-in</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/flask-wtforms</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/4625626/joe-salad</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/44747888/how-convert-python-pandas-dataframe-from-msssql-into-mongodb</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/8211193/tony-chu</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/44698748/pymongo-usernotfound-could-not-find-user-authenticatedadmin</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/2063478/user2063478</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/44629181/commandcursor-object-is-not-subscriptable</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/6997153/sarthak-gupta</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/44616276/mongodb-wildcard-match-all-values-for-specific-key</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/2714150/matt</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/44583710/624-error-list-index-out-of-range</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/8170391/moe</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/pymongo-3.x?page=2&amp;sort=newest&amp;pagesize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/pymongo-3.x?page=3&amp;sort=newest&amp;pagesize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/pymongo-3.x?page=4&amp;sort=newest&amp;pagesize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/pymongo-3.x?page=5&amp;sort=newest&amp;pagesize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/pymongo-3.x?page=6&amp;sort=newest&amp;pagesize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/pymongo-3.x?sort=newest&amp;pagesize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/pymongo-3.x?sort=newest&amp;pagesize=30</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/pymongo-3.x?sort=newest&amp;pagesize=50</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/16308210/how-to-add-emoticons-to-richtextbox</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/42049726/use-custom-soft-deleted-column-in-laravel/42049816</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/42053974/how-to-subscribe-user-with-laravel-notification-channel-for-onesignal/42055439</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/42046500/how-to-get-value-in-vue-js-from-select/42046631</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/42176647/extract-value-from-data-frame-column-based-on-another-column</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/15525332/microsoft-ace-oledb-12-0-is-not-registered-to-local-machine</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/15819669/efficient-way-to-apply-operator-on-specific-record-in-msaccess-database</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/16039369/efficient-way-to-return-id-values-from-access-table-for-c-sharp-combo-box</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/42244315/javascript-ecma-6-class-magic-method-call-like-php</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/15800331/too-many-records-when-joining-two-tables/15804666</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/help/badges/13/yearling?userid=2190807</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/help/badges/27/notable-question?userid=2190807</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/help/badges/260/announcer?userid=2190807</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/help/badges/5/organizer?userid=2190807</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/help/badges/4127/curious?userid=2190807</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/41478546/angular-2-pagination-based-on-alphabets-in-tables</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/42559121/ng2-pagination-angular-2</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/42612595/ng2-pagination-in-angular-2</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/43726716/pagination-in-angular-2</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/44658512/angular-4-pagination-in-api</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/45351148/server-side-pagination-spring-mvc-angular-4</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/45903255/ngx-pagination-in-angular-4-how-to-get-page-number</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46037836/ngx-datatable-pagination-with-angular2</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46051287/ngx-datatable-with-angular-2-disabling-pagination</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/tags/angular/info</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/angular?sort=newest&amp;pageSize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/angular?sort=featured&amp;pageSize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/angular?sort=frequent&amp;pageSize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/angular?sort=votes&amp;pageSize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/angular?sort=active&amp;pageSize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/tags/angular/topusers</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/tags/angular/synonyms</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46366793/translatelang-and-direct-access-to-page</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/l10n.js</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/3492427/lempkin</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46366760/why-is-my-route-animation-not-working-in-angular2</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/angular2-routing</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/angular-animations</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/40676/martijn</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46366735/store-and-update-the-api-data-into-local-storage-for-fast-prerendering-pages</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/api</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/local-storage</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/ng2-charts</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/8114696/ho%c3%a0ng-nguy%e1%bb%85n</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46366464/i-have-ngx-datatable-but-i-am-trying-to-add-my-custom-component-to-ngx-datatable</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/ngx-datatable</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/5868584/mohit</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46366424/send-variable-from-component-to-sibling-in-angular-4</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/1350162/callback</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46366403/how-to-call-function-of-one-component-from-another-in-angular</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/ng-map</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/8656111/deepan</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46366388/how-to-create-a-line-on-a-chart-using-chartjs-plugin-annotation</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/chart.js</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/7857994/azoulay-jason</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46366333/how-to-style-nested-child-component-from-parent-component-in-angular-4</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/7382297/suraj-khanal</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46366294/angular2-when-does-property-binding-happen</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/3208297/blue-note</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46366257/using-if-and-select-tag-angular-4</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/7695982/gustavo</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46366060/angular-component-not-updated-when-service-updates</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/angular-services</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/519497/gluepear</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/angular?page=2&amp;sort=newest&amp;pagesize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/angular?page=3&amp;sort=newest&amp;pagesize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/angular?page=4&amp;sort=newest&amp;pagesize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/angular?page=5&amp;sort=newest&amp;pagesize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/angular?page=4854&amp;sort=newest&amp;pagesize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/angular?sort=newest&amp;pagesize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/angular?sort=newest&amp;pagesize=30</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/angular?sort=newest&amp;pagesize=50</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/tags/pagination/info</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/pagination?sort=newest&amp;pageSize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/pagination?sort=featured&amp;pageSize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/pagination?sort=frequent&amp;pageSize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/pagination?sort=votes&amp;pageSize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/pagination?sort=active&amp;pageSize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/tags/pagination/topusers</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/tags/pagination/synonyms</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46353232/automate-pagination-with-infinite-scroll</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/tagged/repeater</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/5441989/ghaamae</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46348202/jquery-pagination-limiting-the-number-of-rows-per-page</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/8539999/sreddy</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46345545/how-to-paginate-an-array-of-results-in-javascript</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/758836/loretoparisi</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46337403/how-to-add-pagination-and-footer-template-in-ngx-datatable</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/8216857/ragavan-randy</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/46337358/server-side-sorting-pagination-and-filtering-with-react-js-and-laravel</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
+   <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/server-side</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/.net</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
+   <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/4191234/webshifu</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/arrays</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
+   <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46327569/unable-to-get-the-url-of-page2</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/angularjs</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
+   <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/jsoup</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/iphone</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
+   <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/8628119/user8628119</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/r</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
+   <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46327214/apply-limit-offset-to-parent-when-fetching-paginated-records-with-filters</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/node.js</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
+   <priority>0.8000</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/4154706/haroon-khan</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/30549226/guzzlehttp-how-get-the-body-of-a-response-from-guzzle-6</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46327003/how-to-create-pagination-in-laravel-when-data-is-in-an-array</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/41521899/how-to-mock-response-from-file-using-guzzle-6</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/7666430/faraz</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/42140692/mock-response-and-use-history-middleware-at-the-same-time-in-guzzle</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46325414/drf-cursor-pagination-example</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/42577135/duplicated-params-for-post-request-in-guzzle-6</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/django-rest-framework</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/43207399/define-guzzle-content-length</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/7007593/foobar</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/43481860/guzzle-changing-request-options-in-a-pool-generator</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46319410/angularjs-uib-pagination-ng-change-on-function</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/43487856/how-to-chain-two-http-requests-in-guzzle</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/8580358/marv</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/44225716/laravel-guzzle-parameters</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46314238/paging-in-php-codeigniter-shows-error</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/44289172/connect-to-site-with-unknown-scheme-via-guzzle</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/codeigniter</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/45182654/upload-file-in-chunks-to-url-endpoint-using-guzzle-php</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/6618283/sooraj-s-pillai</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/php?sort=newest&amp;pageSize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46308688/how-to-get-data-desc-order-and-create-pagination-when-working-with-elequent-mode</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/php?sort=featured&amp;pageSize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/8519930/arfa-imtiaz</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/php?sort=frequent&amp;pageSize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46307781/at-what-point-to-start-applying-pagination-to-a-sql-query</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/php?sort=votes&amp;pageSize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/2093880/usefulbee</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/php?sort=active&amp;pageSize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46306848/custom-post-type-with-page-and-pagination</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46371793/wordpress-posting-multiple-custom-post-type-strip-tags-error</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://stackoverflow.com/questions/tagged/wordpress</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/custom-post-type</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46371783/array-to-item-index-in-foreach-loop</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/permalinks</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/curl</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/slug</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/xml-parsing</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/4582744/justkidding96</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46371780/distribute-laravel-dusk-tests-to-selenium-grid</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/pagination?page=2&amp;sort=newest&amp;pagesize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/laravel</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/pagination?page=3&amp;sort=newest&amp;pagesize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/selenium</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/pagination?page=4&amp;sort=newest&amp;pagesize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/laravel-dusk</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/pagination?page=5&amp;sort=newest&amp;pagesize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46371777/php-do-loop-method</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/pagination?page=800&amp;sort=newest&amp;pagesize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/do-loops</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/pagination?sort=newest&amp;pagesize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46371752/codeigniter-save-form-multiselect-into-database-and-set-value</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/pagination?sort=newest&amp;pagesize=30</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/codeigniter</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/pagination?sort=newest&amp;pagesize=50</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46371601/when-i-submit-my-form-not-all-the-information-is-being-sent-to-my-email</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/42065042/firebase-onauthstatechanged-function-not-returning-anything</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46371464/sqlstatehy000-2002-no-such-file-or-directory-php-daemon</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/41431816/dynamic-number-of-input-text-fields-on-an-html-page/41432435</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/bash</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/41429195/incorporate-svg-rectangle-in-my-website/41429366</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/pdo</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/41429315/filter-table-rows-by-td-value-greater-than/41429565</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46371454/is-there-a-function-in-php-thats-equivalent-to-arrays-aslistval-in-java</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/41429564/cant-set-footer-at-the-bottom-of-the-page/41429707</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46371409/php-form-not-collecting-data-from-dropdown</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/41450700/microsoft-visual-studio-html-and-css-export/41450796</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/forms</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/41456409/bootsrap-affix-not-working/41456945</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/contact</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/41431743/php-echo-table-images-in-one-row/41432564</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46371354/running-phantomjs-on-webspace-to-scrapp-javascript-and-html</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/41435155/did-google-chrome-change-how-audio-works-audio-code-no-longer-working/41435562</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/php?page=2&amp;sort=newest&amp;pagesize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/43480345/access-object-property-name-with-for-loop</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/php?page=3&amp;sort=newest&amp;pagesize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/help/badges/6644/census?userid=7365501</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/php?page=4&amp;sort=newest&amp;pagesize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/help/badges/5/organizer?userid=7365501</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/php?page=5&amp;sort=newest&amp;pagesize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/help/badges/5870/educated?userid=7365501</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/php?page=74960&amp;sort=newest&amp;pagesize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/help/badges/9/autobiographer?userid=7365501</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/php?sort=newest&amp;pagesize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/45870948/error-in-stri-split-boundaries-argument-str-should-be-a-character-vector</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/php?sort=newest&amp;pagesize=30</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/2375551/mikeck</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/php?sort=newest&amp;pagesize=50</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/22567327/include-character-vector-listing-function-methods-in-a-package</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/guzzle?sort=newest&amp;pageSize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/28332311/how-to-substitute-dashes-with-dots-in-every-element-of-character-vector-in-r</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/guzzle?sort=featured&amp;pageSize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/32364208/building-r-package-for-windows-on-mac</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/guzzle?sort=frequent&amp;pageSize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/34537247/how-to-move-r-workspace-containing-cyrillic-symbols-from-windows-to-ubuntu-linux</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/guzzle?sort=votes&amp;pageSize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/37444998/error-ionice-ioprio-set-failed-invalid-argument-while-trying-to-build-custom</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/guzzle?sort=active&amp;pageSize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/39009635/build-r-package-lines-wider-than-100-characters</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46346903/empty-payload-json-content-expected-error-calling-microsoft-graph-guzzle-p</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/39171613/sort-produces-different-results-in-ubuntu-and-windows</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/graph</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/40246146/ubuntu-to-windows-find-file-path-r-setwd</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/intune</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/40934861/easy-way-to-test-package-building-from-source-on-ubuntu-16-04</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46341541/laravel-passport-error-sending-post-request-to-oauth-token</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/tags/windows/info</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/laravel-5</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/windows?sort=newest&amp;pageSize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/oauth-2.0</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/windows?sort=featured&amp;pageSize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/laravel-passport</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/windows?sort=frequent&amp;pageSize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46332276/making-multiple-requests-at-once-guzzle</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/windows?sort=votes&amp;pageSize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/lumen</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/windows?sort=active&amp;pageSize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46312030/guzzles-client-does-not-returns-error-message-only-result-is-returned</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/tags/windows/topusers</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46301810/post-request-getting-data-of-database-mysql-with-php</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/tags/windows/synonyms</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46257101/what-is-the-fastest-most-efficient-way-of-caching-billions-of-responses-from-an</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46366541/conflit-between-win-10-npm-5-4-2-node-8-5-0-and-ajv-module</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/redis</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/ajv</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/storage</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/8656134/ca-webdev</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46251547/how-to-update-woocommerce-order-api-using-guzzle</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46366391/cannot-remove-write-protection</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/api</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/usb</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/woocommerce</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/7989986/madhan</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46233444/guzzle-post-returns-an-empty-body</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46365985/executing-bash-in-rmarkdown-on-windows-git-bash</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46222259/php-guzzle-post-request-returning-null</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/knitr</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/post</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/8655206/sue-parker</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46219827/guzzle-output-same-response-data-when-call-api-url</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46365903/powershell-command-from-nodejs-not-working-in-windows-7</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46215636/how-to-perform-concurrent-post-requests-with-guzzle</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/8630984/vivek</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/request</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46364735/how-do-i-correctly-start-a-process-with-administrator-rights</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/pool</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/process</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46188673/alamofire-doesnt-recognize-result-as-json</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/processstartinfo</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/swift</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/8420023/jordan-jones</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/alamofire</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46364669/calling-events-from-a-c-dll-in-c-sharp</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46160895/laravel-guzzle-403-forbidden</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/events</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46114048/how-to-get-guzzle-post-request-parameter-in-laravel-controller</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/5036612/adalcar</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/guzzle?page=2&amp;sort=newest&amp;pagesize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46364069/windows-service-bus-disable-certificate-validation</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/guzzle?page=3&amp;sort=newest&amp;pagesize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/azureservicebus</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/guzzle?page=4&amp;sort=newest&amp;pagesize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/servicebus</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/guzzle?page=5&amp;sort=newest&amp;pagesize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/6662957/tiona</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/guzzle?page=73&amp;sort=newest&amp;pagesize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46363836/how-to-install-mod-wsgi-on-windowsxampp-in-2017</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/guzzle?sort=newest&amp;pagesize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/mod-wsgi</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/guzzle?sort=newest&amp;pagesize=30</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/842480/wirone</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/guzzle?sort=newest&amp;pagesize=50</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46363814/can-i-use-accordion-in-the-email-template-design-with-html-and-css-only</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46368586/odd-bit-shifting-behavior</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/accordion</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/guzzle6?sort=newest&amp;pageSize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/email-templates</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/guzzle6?sort=frequent&amp;pageSize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/8655289/shirin-akter</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/guzzle6?sort=votes&amp;pageSize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46363249/cant-connect-to-an-open-excel-app</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/guzzle6?sort=active&amp;pageSize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/5367706/razor23-donetsk</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46305929/convert-response-retuned-by-guzzle-client-into-json-array</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46363175/working-with-virtualenv-without-python-in-windows-path</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46090954/guzzle-response-issue</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/virtualenv</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46019928/guzzle-not-behaving-like-curl</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/1661173/tomasz74</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46015529/guzzle-async-requests-not-really-async</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46363173/ffmpeg-screen-capture-adjust-switches-to-synchronize-video-and-audio</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/45960707/sending-form-data-with-guzzle-throws-server-error</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/ffmpeg</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/45947541/sending-http-request-using-guzzle</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/2474248/machine-1</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/45721433/stream-from-a-temporary-file-then-delete-when-finished</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46362692/how-to-concatenate-variable-with-the-path-in-ansible-script</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/stream</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/ansible</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/php-7</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/2439278/user2439278</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/45406915/guzzlehttphow-can-i-save-cookies-from-a-post-response-and-use-it-in-the-next-po</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/windows?page=2&amp;sort=newest&amp;pagesize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/cookies</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/windows?page=3&amp;sort=newest&amp;pagesize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/45231422/guzzle-6-post-request-gives-401-unauthorized-response</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/windows?page=4&amp;sort=newest&amp;pagesize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/45220297/how-to-save-implode-results-in-array-correctly</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/windows?page=5&amp;sort=newest&amp;pagesize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/laravel-5.3</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/windows?page=7570&amp;sort=newest&amp;pagesize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/implode</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/windows?sort=newest&amp;pagesize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/45208900/php-http-client-not-able-to-resolve-web-page</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/robots.txt</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/http</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/3732075/delboy1978uk</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/45185628/connect-to-api-using-guzzle-with-authentication</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/4403871/s-p</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/5389400/kapil-bhatt</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/7586021/krishnair1123</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/8577198/v-kris</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/573991/everm1nd</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/1997195/sam</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/1342006/jdc</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/5883438/deadpool-y7</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/8491066/sirisakc</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/5048185/viet-nguyen-trong</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/4667025/s%c3%bcresh-ak</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/4429033/dom-king</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/1316252/skunkwerk</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/243680/ishan</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/3976136/ramaraog</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/3934214/sen</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/3134900/steve</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/741099/nyxynyx</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/530514/oyatek</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/81292/nachiket</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/143378/hpique</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/1597744/toseef-khilji</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/tags/wordpress/topusers</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/tags/codeigniter/topusers</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/tags/ajax/topusers</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/tags/cakephp/topusers</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/tags/laravel/topusers</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/tags/twitter-bootstrap/topusers</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/tags/asp.net/topusers</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/tags/datatables/topusers</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/tags/asp.net-mvc/topusers</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/tags/wordpress/synonyms</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/tags/codeigniter/synonyms</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/tags/ajax/synonyms</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/tags/cakephp/synonyms</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/tags/laravel/synonyms</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/tags/twitter-bootstrap/synonyms</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/tags/asp.net/synonyms</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/tags/datatables/synonyms</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/tags/asp.net-mvc/synonyms</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/users/5377037/asif-ali</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/1052907/repeater-pagination-with-checkboxes-issue</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/3252686/pagination-support-for-repeater</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>https://stackoverflow.com/questions/12625427/jquery-infinite-scroll-pagination</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/14768767/pagination-in-repeater</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/45101892/upgrading-guzzle-guzzle-package-from-version3-to-version6-missed-operationcomman</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/21525078/pagination-and-infinite-scrolling-in-rails</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/guzzle6?page=2&amp;sort=newest&amp;pagesize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/27486202/infinite-scroll-pagination-issue</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/guzzle6?page=3&amp;sort=newest&amp;pagesize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/31055265/sorting-using-a-repeater-with-pagination</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/guzzle6?page=4&amp;sort=newest&amp;pagesize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/37513266/how-to-set-page-validation-true-for-pagination</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/guzzle6?page=5&amp;sort=newest&amp;pagesize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/37849631/pagination-infinite-scroll-with-firebase</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/guzzle6?page=12&amp;sort=newest&amp;pagesize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/38311712/relay-paginationnot-infinite-scroll</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/guzzle6?sort=newest&amp;pagesize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/tags/repeater/info</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/guzzle6?sort=newest&amp;pagesize=30</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/repeater?sort=newest&amp;pageSize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/guzzle6?sort=newest&amp;pagesize=50</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/repeater?sort=featured&amp;pageSize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/guzzlehttp?sort=newest&amp;pageSize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/repeater?sort=frequent&amp;pageSize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/guzzlehttp?sort=frequent&amp;pageSize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/repeater?sort=votes&amp;pageSize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/guzzlehttp?sort=votes&amp;pageSize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/repeater?sort=active&amp;pageSize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/guzzlehttp?sort=active&amp;pageSize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/tags/repeater/topusers</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46286909/guzzlehttp-how-to-get-request-header</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/tags/repeater/synonyms</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46027131/create-issue-on-bitbucket-api</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46237386/asp-updateprogress-control-on-async-page-load</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/bitbucket</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/2491027/omar-ebrahim</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/45979111/posting-to-endpoint-to-get-the-redirect-url-before-purchase</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46363512/saving-data-in-a-repeater-to-a-database-in-sql-in-a-single-row</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/omnipay</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/8500110/sarslan</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/45905735/guzzlehttp-request-error-502-with-nginx-setting</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46345426/how-can-i-save-the-data-in-the-repeater-to-single-line</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/nginx</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/274403/per-g</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/laravel-5.4</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46339629/i-cant-save-the-data-in-the-repeater-with-sql-query-to-database</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/45425112/how-to-remove-guzzle-guzzle-package</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/5515594/shadouspan</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/composer-php</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46331534/issue-grabbing-correct-control-update-panel-in-repeater</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/45393543/required-lang-parameter-is-empty-when-making-guzzle-get-request-to-api-ai</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/2059652/kristen</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/get</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46218157/groupname-doesnt-work-in-more-than-one-radiobutton-inside-repeater-asp-net</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/api.ai</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/radio-button</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/45345372/uploading-file-with-octoprint-api-and-guzzlehttp</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/3690846/webruster</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/45305346/getting-an-undefined-index-id-in-submitting-a-form</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/15352646/html-table-td-width-in-repeater-itemtemplate-unable-to-set</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/45290195/1-1-errorexception-undefined-index-id-in-clientcontroller-php-line-81</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/table</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/45232895/error-guzzle-will-not-follow-more-than-1-redirects-drupal-8</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/8640407/amit-kumar</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/drupal</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46282892/how-can-i-save-the-data-in-the-repeater-to-the-database</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/server</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/24029836/error-databinding-methods-such-as-eval-xpath-and-bind-can-only-be-used</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/45154294/undefined-property-stdclassprofession</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/eval</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/45151646/guzzlehttp-slow-performance</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/2332493/halo-gc</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/guzzlehttp?page=2&amp;sort=newest&amp;pagesize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46262320/wordpress-mix-different-loop-archive</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/guzzlehttp?page=3&amp;sort=newest&amp;pagesize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/advanced-custom-fields</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/guzzlehttp?page=4&amp;sort=newest&amp;pagesize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/3563993/shilovk</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/guzzlehttp?page=5&amp;sort=newest&amp;pagesize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46263252/how-can-i-find-total-price-in-the-repeater</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/guzzlehttp?page=6&amp;sort=newest&amp;pagesize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/sqldatasource</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/guzzlehttp?sort=newest&amp;pagesize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/7727688/how-can-i-use-a-list-collection-as-a-repeater-datasource-in-asp-net-with-c-sha</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/guzzlehttp?sort=newest&amp;pagesize=30</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/datasource</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/guzzlehttp?sort=newest&amp;pagesize=50</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/980434/rob</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46365565/python-sort-a-list-based-on-a-given-order</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46223198/can-repeater-model-execute-javascript</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/203198/event-binding-on-dynamically-created-elements</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/qml</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/4296505/understanding-promises-in-node-js</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/2056452/derm</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/6801283/what-are-the-differences-between-deferred-promise-and-future-in-javascript</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46220405/how-to-change-font-size-of-an-item-in-a-repeater</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/9682092/how-does-data-binding-work-in-angularjs</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/itemdatabound</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/22519784/how-do-i-convert-an-existing-callback-api-to-promises</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/2373249/kblok</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/22539815/arent-promises-just-callbacks</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/repeater?page=2&amp;sort=active&amp;pagesize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/23803743/what-is-the-explicit-promise-construction-antipattern-and-how-do-i-avoid-it</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/repeater?page=3&amp;sort=active&amp;pagesize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/25345520/multiple-thens-on-single-angularjs-promise-all-use-original-data</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/repeater?page=4&amp;sort=active&amp;pagesize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/anchor</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/repeater?page=5&amp;sort=active&amp;pagesize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/external</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/repeater?page=168&amp;sort=active&amp;pagesize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/getelementbyid</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/repeater?sort=active&amp;pagesize=15</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46365061/how-to-go-back-to-previous-page-without-loosing-any-state-of-data</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/repeater?sort=active&amp;pagesize=30</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46364339/c-sharp-get-cookies-from-a-request-that-uses-a-proxy</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/tagged/repeater?sort=active&amp;pagesize=50</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/28999318/owin-authentication-signout-doesnt-seem-to-remove-the-cookie</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/37427724/passing-variables-through-events-c-sharp</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/owin</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46043368/visibility-of-a-link-button-on-session-variable-asp-c-sharp-repeater</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/44776536/how-to-save-jwt-token-on-client-using-hapi-js-in-node</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/15602249/how-to-set-border-to-div-element-for-text-formatting/44933381</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/36592546/how-to-use-multiple-java-net-cookiehandler-in-one-application</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/44894257/repeater-textbox-content-to-database-c-sharp/44911106</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/cookiemanager</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/37559629/menu-items-buttons-and-how-to-make-them-interact-in-a-c-mysql-pos</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46361564/django-cookie-with-login-function</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/37582589/save-in-a-variable-and-multiply-double-value-query-result-c-mysql</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/cookies?page=2&amp;sort=active&amp;pagesize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/44854696/obtaining-id-from-repeater</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/cookies?page=3&amp;sort=active&amp;pagesize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/44894257/repeater-textbox-content-to-database-c-sharp</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/cookies?page=4&amp;sort=active&amp;pagesize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/help/badges/2278/custodian?userid=5441989</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/cookies?page=5&amp;sort=active&amp;pagesize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/help/badges/9/autobiographer?userid=5441989</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/cookies?page=1654&amp;sort=active&amp;pagesize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/help/badges/31/commentator?userid=5441989</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/cookies?sort=active&amp;pagesize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/3478726/kannan</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/cookies?sort=active&amp;pagesize=30</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/5460296/jmona789</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/cookies?sort=active&amp;pagesize=50</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/171027/add-table-row-in-jquery</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/39087348/use-guzzlehttp-to-create-post-request</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/1144805/scroll-to-the-top-of-the-page-using-javascript-jquery</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/39452928/guzzle-6-async-request-return-argument-1-passed-must-be-of-the-type-array-strin</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/5404839/how-can-i-refresh-a-page-with-jquery</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/39753772/how-to-get-the-query-parameters-in-a-guzzle-psr7-request</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/20364647/limit-the-page-numbers-shown-in-pagination</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/2551427/place-query-results-into-array-then-implode</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/24918559/jquery-pagination-will-not-rebind-after-ajax-call</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/11427398/how-to-implode-array-with-key-and-value-without-foreach-in-php</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/25420470/limit-the-number-of-pages-displayed-in-bootstrap-3-pagination</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/12486021/how-to-implode-array-indexes</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/30612642/how-to-limit-row-number-in-pagination-with-select-option</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/15555841/how-to-implode-this-array</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/33990460/add-control-to-bootstrap-pagination-for-rows-per-page</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/25935069/how-implode-correctly-this-array</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/41566317/limit-the-page-numbers-shown-in-pagination</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/37674845/how-to-implode-this-pattern-to-array</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/45984602/javascript-characters-or-numbers-count</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/37729951/how-to-implode-such-an-array-in-php</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46041362/getting-the-value-of-particular-element-in-a-2-d-array-in-javascript</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/laravel-5.3?sort=newest&amp;pageSize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/45986544/armstrong-of-a-number-javascript</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/laravel-5.3?sort=featured&amp;pageSize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/help/badges/2278/custodian?userid=8539999</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/laravel-5.3?sort=frequent&amp;pageSize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/help/badges/2600/informed?userid=8539999</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/laravel-5.3?sort=votes&amp;pageSize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/help/badges/10/scholar?userid=8539999</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/laravel-5.3?sort=active&amp;pageSize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/7379724/matt</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/40288657/how-to-make-a-trait-in-laravel</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/237104/how-do-i-check-if-an-array-includes-an-object-in-javascript</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/42049726/use-custom-soft-deleted-column-in-laravel</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/351409/how-to-append-something-to-an-array</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46343442/laravel-joining-three-tables-join-precedence</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/1232040/how-do-i-empty-an-array-in-javascript</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/query-optimization</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/3010840/loop-through-an-array-in-javascript</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46342448/laravel-database-notifications-values-not-persisting-in-model-object-when-saving</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/help/badges/270/objective-c</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/laravel-notification</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/2962790/best-way-to-change-the-background-color-for-an-nsview/7635195</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46342151/laravel-botman-chatbox-not-displaying</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/25909870/xcode-6-and-embedded-frameworks-only-supported-in-ios8</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/php-5.6</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/34974535/install-latest-nodejs-version-in-ubuntu-14-04/39326989</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46340198/error-in-handler-class</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/6283534/custom-background-image-on-uitoolbar-in-ios5-sdk/6343732</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46339389/display-code-snippet-in-laravel-blade</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/25909870/xcode-6-and-embedded-frameworks-only-supported-in-ios8/25910262</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46332828/how-to-model-availability-in-a-simple-hostel-booking-system-laravel-5</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/14220321/how-do-i-return-the-response-from-an-asynchronous-call/36585554</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46331850/laravel-5-5-excel-queues-and-chunks</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/33081565/how-to-bridge-tvml-javascriptcore-to-uikit-objective-c-swift</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/chunks</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/6804650/ios-devices-as-web-server/24655170</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/41017638/how-to-run-laravel-5-3-on-server-without-vhosts</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/26024100/dyld-library-not-loaded-rpath-libswiftcore-dylib/34883335</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/vhosts</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/31304159/bootstrap-3-navbar-collapse-menu-at-left-for-left-and-right-navbar-items</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46300824/laravel-where-define-query</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/help/badges/62/populist?userid=758836</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46326190/advanced-filters-in-laravel</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/help/badges/25/great-answer?userid=758836</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/41887793/how-can-i-get-the-inserted-user-id-and-use-it-in-my-profile-table-in-laravel</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/help/badges/28/famous-question?userid=758836</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/44806474/disable-error-reporting-entirely-in-laravel-production</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/help/badges/11/taxonomist?userid=758836</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/laravel-5.3?page=2&amp;sort=active&amp;pagesize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/help/badges/4128/inquisitive?userid=758836</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/laravel-5.3?page=3&amp;sort=active&amp;pagesize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/help/badges/33/favorite-question?userid=758836</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/laravel-5.3?page=4&amp;sort=active&amp;pagesize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/help/badges/270/objective-c?userid=758836</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/laravel-5.3?page=5&amp;sort=active&amp;pagesize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/help/badges/4/cleanup?userid=758836</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/laravel-5.3?page=280&amp;sort=active&amp;pagesize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/help/badges/221/benefactor?userid=758836</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/laravel-5.3?sort=active&amp;pagesize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/45040318/how-to-always-display-ngx-datatable-row-detail</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/laravel-5.3?sort=active&amp;pagesize=30</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46313477/what-is-the-purpose-of-observable-of-operator-in-rxjs-library</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/laravel-5.3?sort=active&amp;pagesize=50</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/46277030/how-to-assign-subscribed-response-to-class-variable-in-angular-2</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/implode?sort=newest&amp;pageSize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/help/badges/2278/custodian?userid=8216857</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/implode?sort=frequent&amp;pageSize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/help/badges/31/commentator?userid=8216857</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/implode?sort=votes&amp;pageSize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/help/badges/2600/informed?userid=8216857</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/implode?sort=active&amp;pageSize=15</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/users/1033654/ross-wilson</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/44670163/split-php-variable-using-split-or-implode</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/864326/yui-and-server-side-pagination</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/split</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/6910258/server-side-pagination-with-sort-and-search-and-multiple-languages-support</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/17968982/how-to-build-a-dynamic-mysql-insert-statement-with-php</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/15215210/laravel-3-pagination-sorting-filtering</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/show</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/25289810/laravel-4-pagination-filter-reults</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46146057/implode-array-of-dates-and-insert-into-a-mysql-database</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/25793827/filter-pagination-sorting-at-frontend-or-backend</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/format</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/33536950/changing-from-client-side-pagination-to-server-side</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/46065041/php-multi-level-foreach-loop-remove-last-comma-from-loop</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>https://stackoverflow.com/questions/42597556/structuring-an-angular-app-for-server-side-filtering-and-pagination</loc>
-   <lastmod>2017-09-22T14:48:13+00:00</lastmod>
+   <loc>https://stackoverflow.com/questions/tagged/trim</loc>
+   <lastmod>2017-09-22T19:27:20+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
