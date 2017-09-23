@@ -8,7 +8,7 @@ for x in range(1,900000):
     'User-Agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36'
     }
     http = urllib3.PoolManager()
-    question_page = http.request('get', 'https://stackoverflow.com/questions?page=2&sort=votes')
+    question_page = http.request('get', 'https://stackoverflow.com/questions?page=' + str(x) + '&sort=votes')
     with open(str(x) + '.html', 'w') as fid:
         fid.write(str(question_page.data))
     site = open(str(x) + '.html')
