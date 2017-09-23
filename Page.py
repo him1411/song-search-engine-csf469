@@ -1,18 +1,9 @@
-import re
-import urllib.request
-from bs4 import BeautifulSoup
- 
-html = urllib.request.urlopen('http://bgr.com/2014/10/15/google-android-5-0-lollipop-release/')
-soup = BeautifulSoup(html)
-data = soup.findAll(text=True)
- 
-def visible(element):
-    if element.parent.name in ['style', 'script', '[document]', 'head', 'title']:
-        return False
-    elif re.match('<!--.*-->', str(element.encode('utf-8'))):
-        return False
-    return True
- 
-result = filter(visible, data)
- 
-print list(result)
+import bs4, sys
+
+with open(sys.argv[1], 'r') as f:
+    webpage = f.read().decode('utf-8')
+
+soup = bs4.BeautifulSoup(webpage)
+for node in soup.findAll('html'):
+    print u''.join(node.findAll(text=True)).encode('utf-8')
+
