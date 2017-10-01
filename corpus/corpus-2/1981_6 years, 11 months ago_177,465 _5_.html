@@ -1,0 +1,1 @@
+This question already has an answer here:I need to get the location of the home directory of the current logged-on user. Currently, I\'ve been using the following on Linux:However, this does not work on Windows. What is the correct cross-platform way to do this?You want to use os.path.expanduser. This will ensure it works on all platformsPython 3.4+ use pathlib.Path.home():
