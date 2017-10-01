@@ -16,6 +16,7 @@ document_tokens_list= []
 temp_doc_tokens = []
 snowball_stemmer = SnowballStemmer('english')
 docFiles = [f for f in os.listdir('./chota_corpus') if f.endswith(".html")]
+docFiles.sort()
 
 def __build_vocabulary(document_tokens):
         vocabulary_index=len(vocabulary)-1
