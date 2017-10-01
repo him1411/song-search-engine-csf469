@@ -16,7 +16,7 @@ freqDist = {}
 document_tokens_list= []
 temp_doc_tokens = []
 snowball_stemmer = SnowballStemmer('english')
-docFiles = [f for f in os.listdir('./chota_corpus') if f.endswith(".html")]
+docFiles = [f for f in os.listdir('./corpus/corpus-10') if f.endswith(".html")]
 
 def __build_vocabulary(document_tokens):
         vocabulary_index=len(vocabulary)-1
@@ -58,7 +58,7 @@ def returnIdf(term):
 count=0
 for file in docFiles:
     #print(file)
-    file_name = open("./chota_corpus/"+file)
+    file_name = open("./corpus/corpus-10/"+file)
     print(count)
     count+=1
     words = file_name.read()
@@ -75,5 +75,5 @@ for document_tokens in document_tokens_list:
 
 print (len(vocabulary) )
 
-with open('./savers/chota.json', 'w') as fp:
+with open('./savers/corpus10.json', 'w') as fp:
     json.dump(vocabulary, fp)
