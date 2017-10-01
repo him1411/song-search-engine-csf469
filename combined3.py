@@ -15,7 +15,7 @@ freqDist = {}
 document_tokens_list= []
 temp_doc_tokens = []
 snowball_stemmer = SnowballStemmer('english')
-docFiles = [f for f in os.listdir('./Documents') if f.endswith(".txt")]
+docFiles = [f for f in os.listdir('./chota_corpus') if f.endswith(".html")]
 
 def __build_vocabulary(document_tokens):
         vocabulary_index=len(vocabulary)-1
@@ -53,17 +53,19 @@ def returnIdf(term):
     return math.log2(len(document_tokens_list)/vocabulary_idf[term])
 
 #****************************************************************************************************************************#
-
+count=0
 for file in docFiles:
-    print(file)
-    file_name = open("./Documents/"+file)
+    #print(file)
+    file_name = open("./chota_corpus/"+file)
+    print(count)
+    count+=1
     words = file_name.read()
     temp_doc_tokens = nltk.word_tokenize(words)
     temp_doc_tokens = [w.lower() for w in temp_doc_tokens]
     temp_doc_tokens = [snowball_stemmer.stem(token) for token in temp_doc_tokens]
     temp_doc_tokens = [snowball_stemmer.stem(token) for token in temp_doc_tokens if token not in nltk.corpus.stopwords.words('english')]
     document_tokens_list.append(temp_doc_tokens)
-    print(temp_doc_tokens[:20])
+    #print(temp_doc_tokens[:20])
 
 for document_tokens in document_tokens_list:
     __build_vocabulary(document_tokens)
