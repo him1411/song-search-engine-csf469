@@ -20,14 +20,9 @@ docFiles = [f for f in os.listdir('./Documents') if f.endswith(".txt")]
 def __build_vocabulary(document_tokens):
         vocabulary_index=len(vocabulary)-1
         for word in document_tokens:
-                if word not in vocabulary_idf:
-                    vocabulary_idf[word] = 1
-                else:
-                    vocabulary_idf[word] = vocabulary_idf[word] + 1
-
                 if word not in vocabulary:
-                            vocabulary[word] = vocabulary_index
-                            vocabulary_index+= 1
+                    vocabulary[word] = vocabulary_index
+                    vocabulary_index+= 1
 
 def buildIDF():
     for word in vocabulary:
@@ -43,14 +38,13 @@ def buildFreqDist(document_tokens_list):
     for document_tokens in document_tokens_list:
         freqDist[i] = FreqDist(document_tokens)
         i = i + 1
-        for word in document_tokens:
-            vocabulary_idf
+
 
 def returnTermFrequency(term, document_tokens, document_tokens_index):
-    return math.log2(1+(freqDist[document_tokens_index][term]/float(len(document_tokens))))
+    return math.log(1+(freqDist[document_tokens_index][term]/float(len(document_tokens))))
 
 def returnIdf(term):
-    return math.log2(len(document_tokens_list)/vocabulary_idf[term])
+    return math.log(len(document_tokens_list)/vocabulary_idf[term])
 
 #****************************************************************************************************************************#
 
@@ -67,10 +61,11 @@ for file in docFiles:
 
 for document_tokens in document_tokens_list:
     __build_vocabulary(document_tokens)
-print (vocabulary)
+#print (vocabulary)
+print('***************')
 buildFreqDist(document_tokens_list)
 buildIDF()
-print(vocabulary_idf)
+#print(vocabulary_idf)
 j=0
 k=0;
 primaryDictionary = dict()
@@ -88,4 +83,5 @@ for vocab in vocabulary:
             k = k + 1
             #inner_dict[i]=(tf_idf_rapport(vocab,document_tokens_list[i],document_tokens_list))
     primaryDictionary[vocab]=inner_dict
-#print (primaryDictionary)
+print (primaryDictionary)
+
