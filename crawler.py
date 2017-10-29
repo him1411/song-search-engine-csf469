@@ -29,6 +29,7 @@ import xml.sax.saxutils
 import robotparser
 import re
 import httplib
+import os
 
 
 helpText = """sitemap_gen.py version 1.1.0 (2009-09-05)
