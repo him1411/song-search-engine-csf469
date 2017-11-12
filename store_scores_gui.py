@@ -188,12 +188,11 @@ class main_class(object):
             json.dump(score, fp)
 
 
-'''
     def process_function(query):
         queryStr = query
         main_class.terminal_function()
         
-        #find max wala function#######################
+        #find max starts
         with open('savers/store.json') as json_data:
             score = json.load(json_data)
         sorted_score = sorted(score, key=score.get, reverse=True)
@@ -202,7 +201,7 @@ class main_class(object):
         for i in sorted_score[:10]:
             print(i)
 
-        #end of find max################################
+        #end of find max
 
         linkNumber_list = sorted_score[:10]
         docList = []
@@ -214,4 +213,3 @@ class main_class(object):
             docList.append(data[int(linkNum)]);
         print(docList)
         return docList
-'''
