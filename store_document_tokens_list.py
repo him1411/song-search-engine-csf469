@@ -31,7 +31,6 @@ def create_document_tokens_list():
         words = file_name.read()
         temp_doc_tokens = nltk.word_tokenize(words)
         temp_doc_tokens = [w.lower() for w in temp_doc_tokens]
-        #temp_doc_tokens = [snowball_stemmer.stem(token) for token in temp_doc_tokens]
         temp_doc_tokens = [token for token in temp_doc_tokens if token not in nltk.corpus.stopwords.words('english')]
         document_tokens_list.append(temp_doc_tokens)
 
