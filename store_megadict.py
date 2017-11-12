@@ -22,7 +22,7 @@ docFiles.sort()
 
 def buildIDF():
     """
-    
+    function for building the IDF
     """
     z=0
     for word in vocabulary:
@@ -54,11 +54,11 @@ def returnTermFrequency(term, document_tokens, document_tokens_index):
     Function to return the term frequency
     """
     return math.log2(1+(freqDist[document_tokens_index][term]/float(len(document_tokens))))
-    #return freqDist[document_tokens_index][term]
 
 def returnIdf(term):
-    """IDF by searching in the vocabulary
+    """ 
     Function to return corresponding idf
+    searching in the vocabulary
     """
     return math.log2(len(document_tokens_list)/vocabulary_idf[term])
 
