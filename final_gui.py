@@ -20,16 +20,18 @@ app = Flask(__name__)
 @app.route('/')
 def homepage():
     return render_template("index.html")
-
+'''
+this is the result page which shows the song names based on the queries 
+'''
 @app.route('/result',methods = ['POST', 'GET'])
 def result():
 	if request.method == 'POST':
 		query = request.form["query"]
-
+	
 	html="<!DOCTYPE html> <head><link rel=stylesheet type=text/css href=static/styles/bootstrap.min.css></head><body>"
 	html+="<div class='text-center'><h2>Search results for <i><b>"+query+"</b></i></h2></div><hr>"
 
-	result = main_class.process_function(query)
+	result = main_class.process_function(query) 
 	for docname in result:
 		html+="<div class='col-xs-12'><a>"+docname+"</a></div>"
 
