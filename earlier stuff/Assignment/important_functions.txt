@@ -1,5 +1,0 @@
-#for dictionaries
-
-for key,value in vocabulary.iteritems():
-    print key
-    print value
