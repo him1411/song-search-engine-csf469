@@ -78,9 +78,9 @@ GUI has been created using flask framework of python and the front end web pages
 
 ![](https://i.imgur.com/uIDeHaq.png?1)
 
+### The Result page
 
-
-
+![](https://i.imgur.com/LrN9dEA.png)
 ## Machine specs:
 1. Processor: i7 4700HQ
 2. Ram: 24 GB DDR3
@@ -88,8 +88,8 @@ GUI has been created using flask framework of python and the front end web pages
 
 ## Results
 Index building time:
-    * No stemming/lemmatization - 41.67s
-    * Lemmatized text - 76.97s
-    * Stemmed text - 146.13 s
+- No stemming/lemmatization - 41.67s
+- Lemmatized text - 76.97s
+- Stemmed text - 146.13 s
 
 Memory usage: around 410 MB.
