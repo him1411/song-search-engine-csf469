@@ -11,9 +11,11 @@ from collections import defaultdict
 import pickle
 import json
 
+queryStr = ""
+
 class main_class(object):
 
-    queryStr = ""
+    
     corpusSize=1000
     vocabulary = {}
     vocabulary_idf = {}
@@ -79,14 +81,26 @@ class main_class(object):
 
         #Applying stemming porting on queryf documents that a term 't' occurs in and N is the total number of documents in the collection. Some
         
-        words = main_class.queryStr
+        words = queryStr
         temp_doc_tokens = nltk.word_tokenize(words)
         temp_doc_tokens = [w.lower() for w in temp_doc_tokens]
         #temp_doc_tokens = [main_class.snowball_stemmer.stem(token) for token in temp_doc_tokens]
-        temp_doc_tokens = [token for token in temp_doc_tokens if token not in nltk.corpus.stopwords.words('english')]
+        #temp_doc_tokens = [token for token in temp_doc_tokens if token not in nltk.corpus.stopwords.words('english')]
         #document_tokens_list.append(temp_doc_tokens)
-
+        print(temp_doc_tokens)
         queryList = temp_doc_tokens
+        print(queryList)
+        print('retro')
+
+        for i in range(0,19):
+            s = 0.0
+            print(i)
+            for word in queryList:
+                s = s + primeDictionary[word][str(i)][str(3)]
+            print(s)
+
+        print('retro')
+
         numOfWords = 0
         #print (queryList)
         queryDict={} #contains frequency till here i.e the tf
@@ -188,11 +202,15 @@ class main_class(object):
             json.dump(score, fp)
 
 
+
     def process_function(query):
+        print('>>>>>')
+        print(query)
+        global queryStr
         queryStr = query
         main_class.terminal_function()
         
-        #find max starts
+        #find max wala function#######################
         with open('savers/store.json') as json_data:
             score = json.load(json_data)
         sorted_score = sorted(score, key=score.get, reverse=True)
@@ -200,11 +218,12 @@ class main_class(object):
         docFiles.sort()
         for i in sorted_score[:10]:
             print(i)
-
-        #end of find max
+        
+        #end of find max################################
 
         linkNumber_list = sorted_score[:10]
         docList = []
+        docList.clear()
         f = open("songname.txt")
         data = f.read()
         data = data.split("\n")
@@ -213,3 +232,4 @@ class main_class(object):
             docList.append(data[int(linkNum)]);
         print(docList)
         return docList
+
