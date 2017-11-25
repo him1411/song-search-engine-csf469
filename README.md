@@ -1,13 +1,40 @@
 ## Song Search Engine for abpout 50000 Songs
 
-A tf-idf based Search Engine for searching songs on. The main purpose of this project is understand how vector space based retrieval models work.
-More on [Tf-Idf](https://en.wikipedia.org/wiki/Tf%E2%80%93idf). Install all the dependencies using pip3.
+The application created by the group is a domain specific search engine created based on the
 
+## The program/application can be broken down into the various subparts (actual file names also added) :
+1. store_document_tokens_list.py: 
+Stores the tokenized words of each document as lists and then the corresponding list is stored in a json file.
 
+2. store_vocabulary.py: 
+Stores all the unique words present in the corpus
 
+3. store_megadict.py: 
+creates a dictionary which contains the words in the vocabulary as the key and the
+value as another dictionary which contains each document as key and its value is one more dictionary as which contains the TF,IDF and TF-IDF values.
+
+4. store_scores_gui.py: 
+Takes query as input and calculates the scores for each document.
+
+5. final_gui.py: Contains the gui program writtem in flask framework for python to accept query and receive the names of the top 10 documents with the highest scores
+
+### Order of executing the files.
+```
+$ sudo python3 store_document_tokens_list.py
+$ sudo python3 store_vocabulary.py
+$ sudo python3 store_megadict.py
+$ sudo python3 store_scores_gui.py
+$ sudo python3 final_gui.py
+```
+## Installation:
+
+Run the follwing in terminal.
+```
+$ sudo pip install -r requirements.txt
+```
 If you face any problem, install `nltk` separately.
 
-#### Installing `nltk`
+### Installing `nltk`
 
 ```
 $ pip3 install nltk
@@ -16,6 +43,7 @@ $ python3
 >>> nltk.download()
 	Packages: all
 ```
+
 
 ## DATA STRUCTURES USED:
 
@@ -46,6 +74,8 @@ A dictionary which will contain the scores of the documents after inputting the 
 ```
 ## Creating The GUI
 GUI has been created using flask framework of python and the front end web pages have been designed using HTML, CSS and Bootstrap.
+We have also provided multilingual query support using google API.
+Details about the song is obtained using the iTunes API.
 
 ### The Search Engine Home page.
 
@@ -54,6 +84,10 @@ GUI has been created using flask framework of python and the front end web pages
 ### The Result page
 
 ![](https://i.imgur.com/LrN9dEA.png)
+
+### The result page, query in chinese (Traditional)
+![](https://i.imgur.com/GRR3llH.png?1)
+
 ## Machine specs:
 1. Processor: i7 4700HQ
 2. Ram: 24 GB DDR3
@@ -62,11 +96,9 @@ GUI has been created using flask framework of python and the front end web pages
 ## Results
 Index building time:
 - No stemming/lemmatization - 41.67s
-- Lemmatized text - 76.97s
-- Stemmed text - 146.13 s
+- Stemmed text + stopwords_removal - 146.13 s
 
-Memory usage: around 410 MB.
-
+Memory usage (RAM) while building the index: around 8 GB for 3000 documents, 1.3 GB for 800 files  .
 
 
 ## Members
