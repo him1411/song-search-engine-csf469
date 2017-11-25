@@ -17,7 +17,14 @@ document_tokens_list= []
 temp_doc_tokens = []
 snowball_stemmer = SnowballStemmer('english')
 docFiles = [f for f in os.listdir('./corpus') if f.endswith(".txt")]
+
+
+for i in range(len(docFiles)):
+    docFiles[i] = int(docFiles[i].split(".")[0])
+    print(docFiles[i])
+
 docFiles.sort()
+print(docFiles)
 
 def create_document_tokens_list():
     """
@@ -25,12 +32,13 @@ def create_document_tokens_list():
     """
     count=0
     for file in docFiles:
-        file_name = open("./corpus/"+file)
+        file_name = open("./corpus/"+ str(file) + ".txt")
         print(count)
         count+=1
         words = file_name.read()
         temp_doc_tokens = nltk.word_tokenize(words)
         temp_doc_tokens = [w.lower() for w in temp_doc_tokens]
+        #temp_doc_tokens = [snowball_stemmer.stem(token) for token in temp_doc_tokens]
         temp_doc_tokens = [token for token in temp_doc_tokens if token not in nltk.corpus.stopwords.words('english')]
         document_tokens_list.append(temp_doc_tokens)
 

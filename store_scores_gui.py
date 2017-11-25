@@ -10,14 +10,14 @@ from nltk.stem.snowball import SnowballStemmer
 from collections import defaultdict
 import pickle
 import json
-
-queryStr = ""
+from googletrans import Translator
+import itunespy
 
 class main_class(object):
-
     
-    corpusSize=1000
-    vocabulary = {}
+    corpusSize=500
+    queryStr = ""       #query from userinput
+    vocabulary = {}     
     vocabulary_idf = {}
     freqDist = {}
     document_tokens_list= []
@@ -81,7 +81,7 @@ class main_class(object):
 
         #Applying stemming porting on queryf documents that a term 't' occurs in and N is the total number of documents in the collection. Some
         
-        words = queryStr
+        words = main_class.queryStr
         temp_doc_tokens = nltk.word_tokenize(words)
         temp_doc_tokens = [w.lower() for w in temp_doc_tokens]
         #temp_doc_tokens = [main_class.snowball_stemmer.stem(token) for token in temp_doc_tokens]
@@ -90,21 +90,11 @@ class main_class(object):
         print(temp_doc_tokens)
         queryList = temp_doc_tokens
         print(queryList)
-        print('retro')
-
-        for i in range(0,19):
-            s = 0.0
-            print(i)
-            for word in queryList:
-                s = s + primeDictionary[word][str(i)][str(3)]
-            print(s)
-
-        print('retro')
 
         numOfWords = 0
         #print (queryList)
         queryDict={} #contains frequency till here i.e the tf
-        #calculating frequency
+        '''calculating frequency'''
         for q in queryList:
             numOfWords = numOfWords + 1
             if q not in queryDict:
@@ -133,10 +123,10 @@ class main_class(object):
         queryIdf={}
         #check all formulae here
         for q in queryDf:
-            #if (queryDf[q]!=0):
+            if (queryDf[q]!=0):
                 queryIdf[q] = math.log((main_class.corpusSize/queryDf[q]))
-            #else:
-             #   queryIdf[q] = 1+math.log((main_class.corpusSize/1+queryDf[q]),10)
+            else:
+                queryIdf[q] = 1+math.log((main_class.corpusSize/1+queryDf[q]),10)
 
         for q in queryDict:
             queryDict[q] = math.log(1+(queryDict[q]/float(numOfWords)))
@@ -145,7 +135,7 @@ class main_class(object):
         print('***')
 
         print(queryIdf)
-        #tfWeighting - multiplying tf-raw i.e. tf and Idf
+        '''tfWeighting - multiplying tf-raw i.e. tf and Idf'''
 
         queryWt={}
         for q in queryIdf:
@@ -173,14 +163,12 @@ class main_class(object):
         #initializing all documentNormalizedDenominator to zero
         for q in primeDictionary:
             innerDict=primeDictionary[q]
-            #print(q)
             for i in innerDict:
                 documentNormalizedDenominator[i]=0
                 score[i]=0
 
         for q in primeDictionary:
             innerDict=primeDictionary[q]
-            #print(q)
             for i in innerDict:
                 documentNormalizedDenominator[i]+=(math.pow(innerDict[i]['3'],2))
             
@@ -190,8 +178,10 @@ class main_class(object):
             documentNormalizedDenominator[d]=documentNormalizedDenominator[d]**0.5
         
 
-
-        for q in queryWt:#for every word in query_wt
+        '''
+        Iterate over the weight of every term, score the summation in score 
+        '''
+        for q in queryWt:                       #for every word in query_wt
             if q in primeDictionary:
                 #now parse all documents
                 innerDict = primeDictionary[q]
@@ -202,34 +192,49 @@ class main_class(object):
             json.dump(score, fp)
 
 
+    '''
+    Sort the pages according tf-idf cosine similarity
 
+    '''
     def process_function(query):
         print('>>>>>')
         print(query)
-        global queryStr
-        queryStr = query
+        #global queryStr
+        main_class.queryStr = query
+        translator = Translator()
+        main_class.queryStr=translator.translate(main_class.queryStr).text
         main_class.terminal_function()
-        
-        #find max wala function#######################
+
+        #find max score page
         with open('savers/store.json') as json_data:
             score = json.load(json_data)
         sorted_score = sorted(score, key=score.get, reverse=True)
+        '''
         docFiles = [f for f in os.listdir('./corpus') if f.endswith(".txt")]
         docFiles.sort()
+        '''
         for i in sorted_score[:10]:
             print(i)
         
-        #end of find max################################
+        #end of find max
 
         linkNumber_list = sorted_score[:10]
         docList = []
-        docList.clear()
+        #docList.clear()
         f = open("songname.txt")
         data = f.read()
         data = data.split("\n")
         print(linkNumber_list)
         for linkNum in linkNumber_list:
-            docList.append(data[int(linkNum)]);
-        print(docList)
-        return docList
+            docList.append(data[int(linkNum)+2]);
+        newlist= []
+        for list in docList:
+            list = list.split("==")[1]
+            s=""
+            s=list + "&nbsp;&nbsp;&nbsp;Release Date &nbsp;&nbsp;: " + "" + (itunespy.search_track(list)[0].release_date).split("T")[0]+ "&nbsp;&nbsp;&nbsp;Artist Name: &nbsp;&nbsp;&nbsp;" + (itunespy.search_track(list)[0].artist_name)
+            #s=list+":" + "" + (itunespy.search_track(list)[0].release_date).split("T")[0]+ ":" + (itunespy.search_track(list)[0].artist_name)
+
+            newlist.append(s)
+            print(s)
+        return newlist
 
