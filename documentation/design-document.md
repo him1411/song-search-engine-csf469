@@ -73,6 +73,8 @@ A dictionary which will contain the scores of the documents after inputting the 
 ```
 ## Creating The GUI
 GUI has been created using flask framework of python and the front end web pages have been designed using HTML, CSS and Bootstrap.
+We have also provided multilingual query support using google API.
+Details about the song is obtained using the iTunes API.
 
 ### The Search Engine Home page.
 
@@ -81,6 +83,10 @@ GUI has been created using flask framework of python and the front end web pages
 ### The Result page
 
 ![](https://i.imgur.com/LrN9dEA.png)
+
+### The result page, query in chinese (Traditional)
+![](https://i.imgur.com/GRR3llH.png?1)
+
 ## Machine specs:
 1. Processor: i7 4700HQ
 2. Ram: 24 GB DDR3
@@ -89,7 +95,6 @@ GUI has been created using flask framework of python and the front end web pages
 ## Results
 Index building time:
 - No stemming/lemmatization - 41.67s
-- Lemmatized text - 76.97s
-- Stemmed text - 146.13 s
+- Stemmed text + stopwords_removal - 146.13 s
 
-Memory usage: around 410 MB.
+Memory usage (RAM) while building the index: around 8 GB for 3000 documents, 1.3 GB for 800 files  .

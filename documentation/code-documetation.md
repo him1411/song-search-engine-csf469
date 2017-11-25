@@ -87,7 +87,8 @@ The descriptions of the functions are given below :
     2. calculating frequency
     3. Getting total Document frequency of the word. We have to sum over multiple documents
     4. initializing all documentNormalizedDenominator to zero
-    5.  for every word in query_wt we parse all documents
+    5. for every word in query_wt we parse all documents
+    6. The search has been provided with multilingual search support, using google Translate API
 
     - Data accessed from :
         - savers/document_tokens_list.json
