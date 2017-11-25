@@ -1,6 +1,7 @@
-## Song Search Engine for abpout 50000 Songs
+## Song Search Engine
 
-The application created by the group is a domain specific search engine created based on the
+-A tf-idf based Search Engine for searching  about 50000 songs . The main purpose of this project is understand how vector space based retrieval models work.
+ -More on [Tf-Idf](https://en.wikipedia.org/wiki/Tf%E2%80%93idf). Install all the dependencies using pip3.
 
 ## The program/application can be broken down into the various subparts (actual file names also added) :
 1. store_document_tokens_list.py: 
